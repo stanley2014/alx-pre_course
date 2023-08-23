@@ -1,5 +1,5 @@
 /bin/bash
-ALX
+ALX School School
 /bin/bash
 /bin/bash
-ALX
+ALX School School
